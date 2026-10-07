@@ -32,7 +32,7 @@ try.me.at is the demo gallery and sandbox playground of the `*.me.at` family. It
 
 ## Part of the me.at family
 
-try.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+try.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
