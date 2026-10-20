@@ -1,0 +1,7 @@
+{
+  "name": "try-me-at",
+  "description": "Preview gallery of the *.me.at apps plus client-side tools to decode, hash, convert, and format",
+  "homepage": "https://try.me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
