@@ -2,7 +2,7 @@
   "domain": "try.me.at",
   "network": "me.at",
   "generator": "@repo/app-shell/repo-fleet",
-  "contentHash": "14b3336cd29d2c75df531897360b68cdfc65bb73c12dd8c3a43fad8907e82508",
+  "contentHash": "80e8a2ff9512f31c3edae71acf039e3d8be1fe8efd15ae291928c031f5a494a4",
   "lastSyncedAt": "2026-10-20",
   "paths": [
     ".github/CODEOWNERS",
